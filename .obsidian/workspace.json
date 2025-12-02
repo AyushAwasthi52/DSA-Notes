@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "56a278058f904be0",
+    "type": "split",
+    "children": [
+      {
+        "id": "126c375bdb54053a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b003089b9f6361ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Important Points throughout USACO guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Important Points throughout USACO guide"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dad1d9350fd817ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "293fbe5e4a6aaa1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5679fd2205d0b9cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f8ccda1dbed21035",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d75e8da79f876f08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c20bba5d414c31ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd2ebd076b2f5de9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "169e2a3a52d2bd7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Stock Buy and Sell.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Stock Buy and Sell"
+            }
+          },
+          {
+            "id": "b48e3c847d749fe2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Stock Buy and Sell.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Stock Buy and Sell"
+            }
+          },
+          {
+            "id": "a3b4d701f07753ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f2cef8def76c30a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Stock Buy and Sell.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Stock Buy and Sell"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b003089b9f6361ec",
+  "lastOpenFiles": [
+    "Atoi.md",
+    "Untitled.base",
+    "Recursion/Count Good Numbers.md",
+    "Recursion/POW(x, n).md",
+    "Important Points throughout USACO guide.md",
+    "Recursion",
+    "Linked List/Reverse Nodes in K Group.md",
+    "USACO Guide",
+    "Linked List/Intersection of two Linked Lists.md",
+    "Strings",
+    "Strings/Sum of Beauty of All Sub Strings.md",
+    "Strings/Sum of Beauty of All Sub Strings.md",
+    "Dynamic Programming/Palindromic Sub String.md",
+    "Dynamic Programming/Longest Palindrome Sub String.md",
+    "Graph/Number of Provinces.md",
+    "Graph",
+    "Two Pointers/Container with Most Water.md",
+    "Longest Sub String without repeating Charracters.md",
+    "Sliding Window",
+    "Two Pointers",
+    "Linked List/Odd Even Linked List.md",
+    "Linked List/Palindrome Linked List.md",
+    "Linked List/Detect a loop in Singly Linked List.md",
+    "Linked List/Reverse a Linked List Iterative.md",
+    "Linked List/Middle of a linked list.md",
+    "Linked List/Deleting a node in a Linked List.md",
+    "Linked List",
+    "Binary Search/Peak Element.md",
+    "Arrays/Next Permutation.md",
+    "Arrays/Majority Element II.md",
+    "Dynamic Programming/House Robber.md",
+    "Dynamic Programming/Climbing Stairs.md",
+    "Template/Template.md.md",
+    "Dynamic Programming",
+    "Binary Search"
+  ]
+}
